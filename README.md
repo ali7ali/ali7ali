@@ -21,6 +21,7 @@ Beyond development, I have a strong passion for education. I create and teach co
 - **WordPress:** [profiles.wordpress.org/ali7ali](https://profiles.wordpress.org/ali7ali/#content-plugins)
 - **StackOverflow:** [ali-ali](https://stackoverflow.com/users/10470283/ali-ali)
 - **X:** [@ali_16_ali](https://x.com/ali_16_ali)
+- **YouTube:** [Learn with Ali Ali](https://www.youtube.com/@Learn-with-Ali-Ali)
 - **Personal Website:** [ali-ali.org](https://ali-ali.org)
 
 Feel free to reach out if you're interested in collaborating on a project, need consultation on web development, or just want to connect and discuss technology!
