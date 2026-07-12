@@ -1,28 +1,42 @@
-# Hi, I'm Ali Ali 👋
+# Hi, I'm Ali Ali
 
 ## About Me
-I'm a software engineer based in Dubai, with a passion for building and teaching web technologies. My expertise lies in PHP and WordPress development, where I focus on creating intuitive, efficient, and robust web applications. I'm particularly interested in plugin development and ensuring compatibility across various WordPress versions.
 
-### 🌍 From Network Engineering to Web Development
-My career began in network engineering, giving me a solid foundation in the technical intricacies of internet connectivity and system management. This experience was a springboard into the world of freelance web development, where I now lead projects from conception through to completion—handling everything from design to development.
+I'm the engineer production problems escalate to.
 
-### 📚 Educator and Lifelong Learner
-Beyond development, I have a strong passion for education. I create and teach courses that simplify complex web technologies, aiming to empower students and professionals alike. Sharing knowledge is a cornerstone of my professional philosophy, reflecting my commitment to community and continuous learning.
+For the past 3+ years at **WPMU DEV / Incsub** — the company behind Smush (1M+ active installs), Hummingbird, Defender, Forminator, and SmartCrawl, trusted by 600,000+ sites — my job has been debugging live PHP and WordPress systems I've never seen before. A different stack, host, plugin combination, and failure mode in every case.
+
+Most backend engineers debug one codebase for years. I diagnose root causes across thousands of distinct production systems — performance regressions, WooCommerce checkout failures, plugin conflicts, memory exhaustion, compromised sites.
+
+## What I Ship
+
+- Scoped, production-safe fixes (MU-plugins, runtime patches) that stabilize live sites without touching third-party source
+- Measured Core Web Vitals gains: LCP/CLS, caching strategy, query optimization, asset delivery
+- Code-level bug fixes and PRs into a product suite running on millions of sites
+- Security incident response: forensics, cleanup, hardening
 
 ## Skills
-- **Web Development:** PHP, WordPress, Laravel
-- **Frontend Technologies:** JavaScript, Node.js, React.js, jQuery
-- **Tools and Platforms:** Adobe Suite, Various Web Hosting Services
-- **Languages:** Proficient in English and Arabic
+
+- **Backend:** PHP, Laravel, WordPress, WooCommerce, REST APIs, MySQL
+- **Tools:** WP-CLI, Xdebug, PHPUnit, Composer, Git, Linux, Chrome DevTools
+- **Frontend:** JavaScript, Node.js
+
+## Open Source & Community
+
+- **WordPress Core Contributor** — credited in the 6.7 release
+- **Plugin author** on WordPress.org
+- **Arabic Translation Editor** for multiple WordPress ecosystem projects
+- **Featured at State of the Word 2024**
+- Creator of PHP/Laravel courses on a **250,000+ learner** platform
 
 ## Connect with Me
-- **LinkedIn:** [ali16ali](https://linkedin.com/in/ali16ali)
-- **GitHub:** [ali7ali](https://github.com/ali7ali)
-- **WordPress:** [profiles.wordpress.org/ali7ali](https://profiles.wordpress.org/ali7ali/#content-plugins)
-- **StackOverflow:** [ali-ali](https://stackoverflow.com/users/10470283/ali-ali)
-- **X:** [@ali_16_ali](https://x.com/ali_16_ali)
-- **YouTube:** [Learn with Ali Ali](https://www.youtube.com/@Learn-with-Ali-Ali)
-- **Personal Website:** [ali-ali.org](https://ali-ali.org)
 
-Feel free to reach out if you're interested in collaborating on a project, need consultation on web development, or just want to connect and discuss technology!
+- LinkedIn: [ali16ali](https://www.linkedin.com/in/ali16ali)
+- WordPress: [profiles.wordpress.org/ali7ali](https://profiles.wordpress.org/ali7ali)
+- Stack Overflow: [ali-ali](https://stackoverflow.com/users/10470283/ali-ali)
+- Website: [ali-ali.org](https://ali-ali.org)
+- YouTube: [Learn with Ali Ali](https://youtube.com/Learn-with-Ali-Ali)
 
+---
+
+10+ years in software engineering. PHP & Laravel primary. Based in Dubai, UAE. Open to remote or relocation worldwide.
